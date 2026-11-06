@@ -1,0 +1,5 @@
+google-genai
+langchain
+pydantic
+numpy
+pandas
